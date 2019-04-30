@@ -1,0 +1,531 @@
+{
+    "areas": [
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 265,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "NHS area teams",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 25,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "NHS area teams within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE265"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 266,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "clinical commissioning groups",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 211,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "clinical commissioning groups within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE266"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 267,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "built-up areas including subdivisions",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 6091,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "built-up areas including subdivisions within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE267"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 269,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "built-up areas",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 5059,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "built-up areas within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE269"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 274,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "postcode areas",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 100,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "postcode areas within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE274"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 275,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "postcode districts",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 2091,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "postcode districts within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE275"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 276,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "postcode sectors",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 7578,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "postcode sectors within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE276"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 279,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "parishes 2011",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 10490,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "parishes 2011 within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE279"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 295,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "2011 wards",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 7689,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "2011 wards within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE295"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 297,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "2011 super output areas - middle layer",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 6791,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "2011 super output areas - middle layer within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE297"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 298,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "2011 super output areas - lower layer",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 32844,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "2011 super output areas - lower layer within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE298"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 299,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "2011 output areas",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 171372,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "2011 output areas within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE299"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 459,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "local enterprise partnerships (as of April 2017)",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 38,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "local enterprise partnerships (as of April 2017) within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE459"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 460,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "parliamentary constituencies 2010",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 533,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "parliamentary constituencies 2010 within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE460"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 462,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "former metropolitan counties",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 8,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "former metropolitan counties within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE462"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 463,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "local authorities: county / unitary (prior to April 2015)",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 152,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "local authorities: county / unitary (prior to April 2015) within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE463"
+        },
+        {
+            "annotations": {
+                "annotation": [
+                    {
+                        "annotationtext": "True",
+                        "annotationtitle": "IsAbstractCode"
+                    },
+                    {
+                        "annotationtext": 464,
+                        "annotationtitle": "TypeCode"
+                    },
+                    {
+                        "annotationtext": "local authorities: district / unitary (prior to April 2015)",
+                        "annotationtitle": "TypeName"
+                    },
+                    {
+                        "annotationtext": 2092957699,
+                        "annotationtitle": "ParentCode"
+                    },
+                    {
+                        "annotationtext": 326,
+                        "annotationtitle": "ChildCount"
+                    }
+                ]
+            },
+            "description": {
+                "value": "local authorities: district / unitary (prior to April 2015) within England",
+                "lang": "en"
+            },
+            "value": "2092957699TYPE464"
+        }
+    ]
+}

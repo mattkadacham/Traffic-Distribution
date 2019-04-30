@@ -1,0 +1,26 @@
+{
+	"MSOA": {
+		"boundaryUrl": "https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Middle_Super_Output_Areas_December_2011_Boundaries/FeatureServer/2/query",
+		"centroidUrl": "https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Middle_Super_Output_Areas_December_2011_Centroids/FeatureServer/0",
+		"filterField": "msoa11nm"
+	},
+	"CMLAD": {
+		"boundaryUrl": "https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Census_Merged_Local_Authority_Districts_December_2011_Boundaries/FeatureServer/0",
+		"filterField": "cmlad11nm"
+	},
+	"LSOA": {
+		"boundaryUrl": "https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Lower_Super_Output_Areas_December_2011_Boundaries/FeatureServer/2",
+		"centroidUrl": "https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Lower_Super_Output_Areas_December_2011_Centroids/FeatureServer/0",
+		"filterField": "lsoa11nm"
+	},
+	"OA": {
+		"boundaryUrl": "https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Output_Area_December_2011_Boundaries/FeatureServer/2",
+		"centroidUrl": "https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Output_Area_December_2011_Centroids/FeatureServer/0",
+		"filterField": "oa11cd"
+	},
+	"WorkplaceZone": {
+		"boundaryUrl": "https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Workplace_Zone_December_2011_Boundaries/FeatureServer/2",
+		"centroidUrl": "https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Workplace_Zone_December_2011_Centroids/FeatureServer/0",
+		"filterField": "wz11cd"
+	}
+}

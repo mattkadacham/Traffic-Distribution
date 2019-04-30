@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Distribution</title>
+    
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tabulator/3.5.3/css/tabulator.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+  </head>
+  <body>
+
+    <div id="p1"> 
+
+      <select id="la-select" class="p1">
+        <option value="null">Choose LA</option>
+      </select>
+
+      <select id="msoa-select" class="p1" disabled>
+        <option value="null">Choose MSOA</option>
+      </select>
+
+      <button id="add-area" class="p1">+</button>
+
+      <div id="selected-areas">
+        <p id="selected-areas-text" class="p1"></p>
+
+      </div>
+    </div>
+
+    <div id="p2" class="table-page">
+      <div id="reg-table"></div>
+      <input type="range" min="1" max="60", value="1" id="reg-slider">
+      <p id="reg-value"></p>
+    </div>
+
+    <div id="p3" class="table-page">
+      <div id="la-table"></div>
+      <input type="range" min="1" max="60", value="1" id="la-slider">
+      <p id="la-value"></p>
+    </div>
+
+    <div id="p4" class="table-page">
+      <div class="table-container">
+        <div id="msoa-table"></div>
+      </div>
+      <input type="range" min="1" max="60", value="1" id="msoa-slider">
+      <p id="msoa-value"></p>
+    </div>
+
+    <div id="p5" class="table-page">
+      <div class="table-container">
+        <div id="results-table"></div>
+      </div>
+      <div id="results-buttons">
+        <button id="export-csv">Export CSV</button>
+      </div>
+    </div>
+
+    <div id="bottom-bar">
+        <button id="next" class="p1" disabled>Next</button>
+    </div>
+
+    <script>
+      // You can also require other files to run in this process
+      require('./renderer.js')
+    </script>
+  </body>
+</html>
