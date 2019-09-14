@@ -4,4 +4,4 @@ The basic principle is that you look at commuter travel at the regional level, t
 
 This approach is used often in transport planning to estimate future traffic flows along road networks prior to capacity modelling of junctions and links, mostly for minor projects.
 
-No license is given so no permission for modifications/distribution, however feel free to fork & run using "npm start"
+No license is given so no permission for modifications/distribution, however feel free to clone & run using "npm start"
