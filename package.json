@@ -20,7 +20,7 @@
     "electron": "^2.0.0"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "json2csv": "^4.2.1",
     "round-to": "^3.0.0",
     "tabulator-tables": "^4.0.4"
